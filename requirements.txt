@@ -4,7 +4,7 @@ ffmpeg-python
 py-tgcalls==0.8.1rc1
 pyrogram
 youtube-search-python
-git+https://github.com/JorDenXD/download
+git+https://github.com/JorDenXD/download@master
 lyricsgenius
 speedtest-cli
 youtube-search
